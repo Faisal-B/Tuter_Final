@@ -1,7 +1,7 @@
 # Tuter
 Third year project. 
 
-
+Commands are for Windows OS, use Mac equivalent where appropriate
 Tute Installation guide:
 
 1. Install miniconda if you dont already have it from
@@ -33,3 +33,9 @@ However, if you want to stop, come back to the terminal and
 press Ctrl + C to stop server.
 
 8. To start the server again at any time repeat step 5 and 6.
+
+
+
+
+** Upgrade Django in the requirement file to a running version
+** Upgrade #!/usr/bin/env python3 on manage.py if "no module django" error appears 
