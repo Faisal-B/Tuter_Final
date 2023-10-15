@@ -38,4 +38,7 @@ press Ctrl + C to stop server.
 
 
 ** Upgrade Django in the requirement file to a running version
+
 ** Upgrade #!/usr/bin/env python3 on manage.py if "no module django" error appears 
+
+** Get the files from rar folder in the oneDrive/outlook mail --> Sent --> LAST LAST
